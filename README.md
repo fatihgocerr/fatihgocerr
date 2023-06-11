@@ -1,8 +1,8 @@
-<h1 align="left"> ~ Hi, I’m Fatih !</h1>
+<h1 align="center"> ~ Hi, I’m Fatih !</h1>
 
 
 
-<p align="left">⌨️ Full-stack Software Developer</p>
+<p align="center">⌨️ Full-stack Software Developer</p>
 
 
 
